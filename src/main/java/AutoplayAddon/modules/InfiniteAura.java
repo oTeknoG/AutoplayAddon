@@ -21,7 +21,7 @@ import java.util.Set;
 public class InfiniteAura  extends Module {
     private final SettingGroup sgGeneral = settings.getDefaultGroup();
     public InfiniteAura() {
-        super(AutoplayAddon.autoplay, "infinite-aura", "test");
+        super(AutoplayAddon.autoplay, "infinite-aura", "Most OP thing ever made for cyber bullying");
     }
     private final SettingGroup sgTargeting = settings.createGroup("Targeting");
 
